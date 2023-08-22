@@ -20,11 +20,11 @@
 
 <p align="center">
 Example Input/Output <br/>
-<img src="https://i.imgur.com/X6D4tr6.png" height="100%" width="100%" alt="Minsweeper Walkthrough Steps"/>
+<img src="https://i.imgur.com/X6D4tr6.png" height="100%" width="100%" alt="CLI Image Processing Example"/>
 
 <p align="center">
 Example Input/Output <br/>
-<img src="https://i.imgur.com/SjQGqmV.png" height="100%" width="100%" alt="Minsweeper Walkthrough Steps"/>
+<img src="https://i.imgur.com/SjQGqmV.png" height="100%" width="100%" alt="CLI Image Processing Example"/>
 
 
 </p>
